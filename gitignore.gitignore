@@ -1,0 +1,11 @@
+# Prerequisites
+*.d
+
+
+# Executables
+*.exe
+
+# Debug files
+*.su
+
+
